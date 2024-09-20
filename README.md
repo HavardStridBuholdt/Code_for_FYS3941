@@ -1,5 +1,5 @@
 # Code_for_FYS3941
-This repository contains the code Glycemic index integrated Blood glucose simulator used in the master thsist: Glycemic Index effect on Food Recommendation Systems for Type-1 Diabetes Subjects, by Håvard Strid Buholdt
+This repository contains the code for the glycemic index integrated blood glucose simulator used in the master thsist: Glycemic Index effect on Food Recommendation Systems for Type-1 Diabetes Subjects, by Håvard Strid Buholdt
 
 
 the scripts in code/modified_files/ contain modifed verisons of Xie's simglucose files 
@@ -8,5 +8,5 @@ See:
 For the original versions.
 
 
-To run the code the following packages are requierd:
+The following packages are requierd:
 [simglucose, gymnasium, numpay, pandas, pkg_resources, datetime, collections, sys]
